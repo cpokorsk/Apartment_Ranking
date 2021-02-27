@@ -1,0 +1,31 @@
+,address,bedrooms,bathrooms,price,squareFootage,floorplan,complex,covered_parking,balcony,washer_dryer,loft,hardwood_floors,office,open_concept,high_ceiling,priceSquareFoot,latitude,longitude,commute_time,grocery_count,bar_count,gas_count,resturant_count,hospital_count,park_count,scores
+0,"5600 Columbia Pike, Falls Church, VA 22041",1,1.0,1837,962,Inspire,Mission Lofts,1.0,0,1,0,1,0,1,1,1.9095634095634095,38.8539924,-77.1230559,19,9,10,14,14,0,14,-1312.0
+1,"5600 Columbia Pike, Falls Church, VA 22041",2,1.0,2378,1083,Objective,Mission Lofts,1.0,0,1,0,1,0,1,1,2.195752539242844,38.8539924,-77.1230559,19,9,10,14,14,0,14,-1941.0
+2,"5600 Columbia Pike, Falls Church, VA 22041",2,2.5,2387,1092,Purpose,Mission Lofts,1.0,0,1,0,1,0,1,1,2.1858974358974357,38.8539924,-77.1230559,19,9,10,14,14,0,14,-1939.5
+3,"5600 Columbia Pike, Falls Church, VA 22041",1,1.0,1803,720,Aspire,Mission Lofts,1.0,1,1,0,1,0,1,1,2.504166666666667,38.8539924,-77.1230559,19,9,10,14,14,0,14,-1624.0
+4,"4501 Ford Ave, Alexandria, VA 22302",1,1.0,1724,632,6C,E-Lofts,1.0,0,1,0,1,0,1,1,2.7278481012658227,38.8371936,-77.10527739999999,16,8,10,11,14,2,14,-1633.5
+5,"4501 Ford Ave, Alexandria, VA 22302",1,1.0,1730,697,7B,E-Lofts,1.0,0,1,0,1,0,1,1,2.4820659971305594,38.8371936,-77.10527739999999,16,8,10,11,14,2,14,-1545.0
+6,"4501 Ford Ave, Alexandria, VA 22302",1,1.0,2064,995,10C,E-Lofts,1.0,0,1,0,1,0,1,1,2.0743718592964826,38.8371936,-77.10527739999999,16,8,10,11,14,2,14,-1599.0
+7,"4501 Ford Ave, Alexandria, VA 22302",1,1.0,2274,1062,10E,E-Lofts,1.0,0,1,0,1,0,1,1,2.1412429378531073,38.8371936,-77.10527739999999,16,8,10,11,14,2,14,-1813.5
+8,"6802 Junction Blvd, Springfield, VA 22150",1,1.0,1600,632,A1,The Residences at Springfield Station,1.0,1,1,0,0,0,0,1,2.5316455696202533,38.7711021,-77.1743309,8,7,15,4,17,1,4,-1438.0
+9,"6802 Junction Blvd, Springfield, VA 22150",1,1.0,1510,663,A2,The Residences at Springfield Station,1.0,1,1,0,0,0,0,1,2.277526395173454,38.7711021,-77.1743309,8,7,15,4,17,1,4,-1256.5
+10,"6802 Junction Blvd, Springfield, VA 22150",1,1.0,1630,743,A6,The Residences at Springfield Station,1.0,1,1,0,0,0,0,1,2.1938088829071334,38.7711021,-77.1743309,8,7,15,4,17,1,4,-1316.5
+11,"6802 Junction Blvd, Springfield, VA 22150",1,1.0,1685,800,A7,The Residences at Springfield Station,1.0,1,1,0,0,0,0,1,2.10625,38.7711021,-77.1743309,8,7,15,4,17,1,4,-1313.5
+12,"6802 Junction Blvd, Springfield, VA 22150",1,1.0,1750,869,A10L,The Residences at Springfield Station,1.0,1,1,1,0,0,0,1,2.013808975834292,38.7711021,-77.1743309,8,7,15,4,17,1,4,-1307.5
+13,"6802 Junction Blvd, Springfield, VA 22150",2,2.0,1960,1080,B2,The Residences at Springfield Station,1.0,1,1,0,0,0,0,1,1.8148148148148149,38.7711021,-77.1743309,8,7,15,4,17,1,4,-1304.0
+14,"6802 Junction Blvd, Springfield, VA 22150",2,2.0,1810,1043,B2,The Residences at Springfield Station,1.0,1,1,0,0,0,0,1,1.735378715244487,38.7711021,-77.1743309,8,7,15,4,17,1,4,-1134.5
+15,"6200 N Kings Hwy, Alexandria, VA 22303",1,1.0,1756,699,B2,The Shelby,1.0,0,1,0,1,0,1,1,2.512160228898426,38.7835431,-77.0800714,21,5,6,7,12,0,6,-1624.0
+16,"6200 N Kings Hwy, Alexandria, VA 22303",1,1.0,1751,748,B2,The Shelby,1.0,0,1,0,1,0,1,1,2.340909090909091,38.7835431,-77.0800714,21,5,6,7,12,0,6,-1543.0
+17,"6200 N Kings Hwy, Alexandria, VA 22303",1,1.0,1746,773,B2,The Shelby,1.0,0,1,0,1,0,1,1,2.258732212160414,38.7835431,-77.0800714,21,5,6,7,12,0,6,-1498.0
+18,"5000 Eisenhower Ave, Alexandria, VA 22304",1,1.0,1534,744,Allison,The Reserve at Eisenhower Apartments,1.0,1,1,0,1,0,1,0,2.0618279569892475,38.8020697,-77.1229003,13,5,5,8,16,0,13,-1173.5
+19,"5000 Eisenhower Ave, Alexandria, VA 22304",1,1.0,1631,862,Arrington,The Reserve at Eisenhower Apartments,1.0,1,1,0,0,1,0,0,1.8921113689095128,38.8020697,-77.1229003,13,5,5,8,16,0,13,-1142.0
+20,"5000 Eisenhower Ave, Alexandria, VA 22304",2,2.0,1882,1103,Blakely,The Reserve at Eisenhower Apartments,1.0,1,1,0,1,1,0,0,1.7062556663644606,38.8020697,-77.1229003,13,5,5,8,16,0,13,-1154.0
+21,"5000 Eisenhower Ave, Alexandria, VA 22304",2,2.0,1934,1115,Bingham,The Reserve at Eisenhower Apartments,1.0,1,1,0,1,1,0,0,1.7345291479820628,38.8020697,-77.1229003,13,5,5,8,16,0,13,-1214.0
+22,"6001 Archstone Way, Alexandria, VA 22310",1,1.0,1898,935,Cypress,Park Place at Van Dorn,1.0,1,1,1,0,1,0,0,2.029946524064171,38.7935795,-77.13944359999999,15,4,3,10,8,0,3,-1469.0
+23,"6001 Archstone Way, Alexandria, VA 22310",1,1.0,1798,820,Elm,Park Place at Van Dorn,1.0,1,1,0,0,0,0,0,2.1926829268292685,38.7935795,-77.13944359999999,15,4,3,10,8,0,3,-1493.5
+24,"6001 Archstone Way, Alexandria, VA 22310",2,2.0,2198,1077,Maple,Park Place at Van Dorn,1.0,1,1,0,0,1,0,0,2.040854224698236,38.7935795,-77.13944359999999,15,4,3,10,8,0,3,-1704.0
+25,"6001 Archstone Way, Alexandria, VA 22310",2,2.0,2248,1179,Oak,Park Place at Van Dorn,1.0,1,1,0,0,1,1,0,1.9067005937234944,38.7935795,-77.13944359999999,15,4,3,10,8,0,3,-1625.0
+26,"5760 Dow Ave, Alexandria, VA 22304",1,1.0,1649,690,C.04,Moderna Tempo,1.0,0,1,0,1,0,1,1,2.389855072463768,38.8050101,-77.1330564,16,5,8,12,17,0,9,-1440.0
+27,"5575 Vincent Gate Terrace, Alexandria, VA",1,1.0,1784,862,C.04,Sullivan Place,1.0,0,1,0,1,0,1,1,2.0696055684454757,38.801162,-77.1607611,12,0,0,5,4,0,6,-1403.5
+28,"5575 Vincent Gate Terrace, Alexandria, VA",1,1.0,1646,781,C.04,Sullivan Place,1.0,1,1,0,1,0,1,1,2.1075544174135725,38.801162,-77.1607611,12,0,0,5,4,0,6,-1318.0
+29,"5575 Vincent Gate Terrace, Alexandria, VA",1,1.0,1739,1019,C.04,Sullivan Place,1.0,1,1,1,1,1,1,1,1.7065750736015701,38.801162,-77.1607611,12,0,0,5,4,0,6,-1098.5
