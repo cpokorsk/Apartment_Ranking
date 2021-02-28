@@ -1,31 +1,43 @@
-address,bedrooms,bathrooms,price,squareFootage,floorplan,complex,covered_parking,balcony,washer_dryer,loft,hardwood_floors,office,open_concept,high_ceiling
-"5600 Columbia Pike, Falls Church, VA 22041",1,1,1837,962,Inspire,Mission Lofts,1,0,1,0,1,0,1,1
-,2,1,2378,1083,Objective,,,0,1,0,1,0,1,1
-,2,2.5,2387,1092,Purpose,,,0,1,0,1,0,1,1
-,1,1,1803,720,Aspire,,,1,1,0,1,0,1,1
-"4501 Ford Ave, Alexandria, VA 22302",1,1,1724,632,6C,E-Lofts,1,0,1,0,1,0,1,1
-,1,1,1730,697,7B,,,0,1,0,1,0,1,1
-,1,1,2064,995,10C,,,0,1,0,1,0,1,1
-,1,1,2274,1062,10E,,,0,1,0,1,0,1,1
-"6802 Junction Blvd, Springfield, VA 22150",1,1,1600,632,A1,The Residences at Springfield Station,1,1,1,0,0,0,0,1
-,1,1,1510,663,A2,,,1,1,0,0,0,0,1
-,1,1,1630,743,A6,,,1,1,0,0,0,0,1
-,1,1,1685,800,A7,,,1,1,0,0,0,0,1
-,1,1,1750,869,A10L,,,1,1,1,0,0,0,1
-,2,2,1960,1080,B2,,,1,1,0,0,0,0,1
-,2,2,1810,1043,B2,,,1,1,0,0,0,0,1
-"6200 N Kings Hwy, Alexandria, VA 22303",1,1,1756,699,,The Shelby,1,0,1,0,1,0,1,1
-,1,1,1751,748,,,,0,1,0,1,0,1,1
-,1,1,1746,773,,,,0,1,0,1,0,1,1
-"5000 Eisenhower Ave, Alexandria, VA 22304",1,1,1534,744,Allison,The Reserve at Eisenhower Apartments,1,1,1,0,1,0,1,0
-,1,1,1631,862,Arrington,,,1,1,0,0,1,0,0
-,2,2,1882,1103,Blakely,,,1,1,0,1,1,0,0
-,2,2,1934,1115,Bingham,,,1,1,0,1,1,0,0
-"6001 Archstone Way, Alexandria, VA 22310",1,1,1898,935,Cypress,Park Place at Van Dorn,1,1,1,1,0,1,0,0
-,1,1,1798,820,Elm,,,1,1,0,0,0,0,0
-,2,2,2198,1077,Maple,,,1,1,0,0,1,0,0
-,2,2,2248,1179,Oak,,,1,1,0,0,1,1,0
-"5760 Dow Ave, Alexandria, VA 22304",1,1,1649,690,C.04,Moderna Tempo,1,0,1,0,1,0,1,1
-"5575 Vincent Gate Terrace, Alexandria, VA",1,1,1784,862,,Sullivan Place,1,0,1,0,1,0,1,1
-,1,1,1646,781,,,,1,1,0,1,0,1,1
-,1,1,1739,1019,,,,1,1,1,1,1,1,1
+address,bedrooms,bathrooms,price,squareFootage,floorplan,complex,covered_parking,balcony,washer_dryer,loft,hardwood_floors,office,open_concept,high_ceiling,pets
+"5600 Columbia Pike, Falls Church, VA 22041",1,1,1837,962,Inspire,Mission Lofts,1,0,1,0,1,0,1,1,1
+,2,1,2378,1083,Objective,,,0,1,0,1,0,1,1,1
+,2,2.5,2387,1092,Purpose,,,0,1,0,1,0,1,1,1
+,1,1,1803,720,Aspire,,,1,1,0,1,0,1,1,1
+"4501 Ford Ave, Alexandria, VA 22302",1,1,1724,632,6C,E-Lofts,1,0,1,0,1,0,1,1,1
+,1,1,1730,697,7B,,,0,1,0,1,0,1,1,1
+,1,1,2064,995,10C,,,0,1,0,1,0,1,1,1
+,1,1,2274,1062,10E,,,0,1,0,1,0,1,1,1
+"6802 Junction Blvd, Springfield, VA 22150",1,1,1600,632,A1,The Residences at Springfield Station,1,1,1,0,0,0,0,1,1
+,1,1,1510,663,A2,,,1,1,0,0,0,0,1,1
+,1,1,1630,743,A6,,,1,1,0,0,0,0,1,1
+,1,1,1685,800,A7,,,1,1,0,0,0,0,1,1
+,1,1,1750,869,A10L,,,1,1,1,0,0,0,1,1
+,2,2,1960,1080,B2,,,1,1,0,0,0,0,1,1
+,2,2,1810,1043,B2,,,1,1,0,0,0,0,1,1
+"6200 N Kings Hwy, Alexandria, VA 22303",1,1,1756,699,,The Shelby,1,0,1,0,1,0,1,1,1
+,1,1,1751,748,,,,0,1,0,1,0,1,1,1
+,1,1,1746,773,,,,0,1,0,1,0,1,1,1
+"5000 Eisenhower Ave, Alexandria, VA 22304",1,1,1534,744,Allison,The Reserve at Eisenhower Apartments,1,1,1,0,1,0,1,0,1
+,1,1,1631,862,Arrington,,,1,1,0,0,1,0,0,1
+,2,2,1882,1103,Blakely,,,1,1,0,1,1,0,0,1
+,2,2,1934,1115,Bingham,,,1,1,0,1,1,0,0,1
+"6001 Archstone Way, Alexandria, VA 22310",1,1,1898,935,Cypress,Park Place at Van Dorn,1,1,1,1,0,1,0,0,1
+,1,1,1798,820,Elm,,,1,1,0,0,0,0,0,1
+,2,2,2198,1077,Maple,,,1,1,0,0,1,0,0,1
+,2,2,2248,1179,Oak,,,1,1,0,0,1,1,0,1
+"5760 Dow Ave, Alexandria, VA 22304",1,1,1649,690,C.04,Moderna Tempo,1,0,1,0,1,0,1,1,1
+"5575 Vincent Gate Terrace, Alexandria, VA",1,1,1784,862,A1I,Sullivan Place,1,0,1,0,1,0,1,1,1
+,1,1,1646,781,A1E,,,1,1,0,1,0,1,1,1
+,1,1,1739,1019,A1EL,,,1,1,1,1,1,1,1,1
+"2201 Mill Rd, Alexandria, VA 22314",1,1,1682,674,Mellon,Carlyle Mill Apartments,1,1,1,0,0,0,1,0,1
+,2,2,2327,1059,Selkirk,,,0,1,0,0,1,1,0,1
+"2727 S Quincy St, Arlington, VA 22206",1,1,2185,706,1C,IO Piazza,1,1,1,0,1,0,1,1,1
+,1,1,2060,765,1H,,,0,1,0,1,0,1,1,1
+"1800 26th St S, Arlington, VA 22206",1,1,1376,640,11,The Park at Arlington Ridge,1,0,1,0,1,0,1,0,1
+,2,1,1562,787,21,,,0,1,0,1,0,1,0,1
+,2,2,1748,972,22,,,0,1,0,1,0,1,0,1
+"5250 Duke St, Alexandria, VA 22304",1,1,1399,700,Ceder,The Arbors on Duke,1,1,1,0,1,0,1,0,1
+,2,2,1741,1067,Elm,,,1,1,0,1,0,1,0,1
+"766 N Howard St, Alexandria, VA 22304",1,1,1420,580,Lee Premier,Foxchase Apartments,,1,1,0,1,0,0,0,1
+,2,2.5,1920,1180,The Gadsby Townhome,,,1,1,0,1,1,0,0,1
+"2700 Williamsburg St, Alexandria, VA 22314",1,1,1580,811,,Cameron Court,1,0,1,0,1,0,1,1,1
