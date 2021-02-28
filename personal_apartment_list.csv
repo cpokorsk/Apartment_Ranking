@@ -26,7 +26,7 @@ address,bedrooms,bathrooms,price,squareFootage,floorplan,complex,covered_parking
 ,2,2,2198,1077,Maple,,,1,1,0,0,1,0,0,1
 ,2,2,2248,1179,Oak,,,1,1,0,0,1,1,0,1
 "5760 Dow Ave, Alexandria, VA 22304",1,1,1649,690,C.04,Moderna Tempo,1,0,1,0,1,0,1,1,1
-"5575 Vincent Gate Terrace, Alexandria, VA",1,1,1784,862,A1I,Sullivan Place,1,0,1,0,1,0,1,1,1
+"5575 Vincent Gate Terrace, Alexandria, VA 22312",1,1,1784,862,A1I,Sullivan Place,1,0,1,0,1,0,1,1,1
 ,1,1,1646,781,A1E,,,1,1,0,1,0,1,1,1
 ,1,1,1739,1019,A1EL,,,1,1,1,1,1,1,1,1
 "2201 Mill Rd, Alexandria, VA 22314",1,1,1682,674,Mellon,Carlyle Mill Apartments,1,1,1,0,0,0,1,0,1
